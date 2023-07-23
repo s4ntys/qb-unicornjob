@@ -202,6 +202,6 @@ QBShared.Jobs = {
                 payment = 150
             },
         },
-	},
+     },
 }		
 ```
