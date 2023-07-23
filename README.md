@@ -21,12 +21,6 @@ qb-input - https://github.com/qbcore-framework/qb-input
 
 qb-menu - https://github.com/qbcore-framework/qb-menu
 
-
-## Credits : 
-
-- AndyaUK for his amazing help in ideas, snippets, morale and everything inbetween.
-- TheManHimself for adding progress bar when opening items
-
 ## Insert into @qb-smallresources --> server --> consumables.lua
 ```
 QBCore.Functions.CreateUseableItem("v-class", function(source, item)
